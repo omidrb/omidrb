@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omid Bagheri
-- 👀 I’m interested in Cyber Security , Project management , Networks
-- 🌱 I’m currently learning Clouds and Enterprised Security
-- 💞️ I’m looking to collaborate on Security and IT based projects
+- 👀 I’m interested in Embedded systems , IoT, IT management , Networks
+- 🌱 I’m currently learning Azure and QT
+- 💞️ I’m looking to collaborate on Embedded systems and IT based projects
 - 📫 How to reach me email:omidrb@gmail.com
 
 <!---
